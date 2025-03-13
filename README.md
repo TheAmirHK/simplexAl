@@ -1,8 +1,10 @@
-The first time, even before my universtiy times, I found about George Dantzing was in a science magazine we had that time discussing subjects of scinece and fun facts.
+The first time I found about George Dantzing was in a science magazine we had that time discussing subjects of scinece and fun facts.
 And what really cauaght my attention was he, as a graduate student, was late to his class and found two mathematical problem which he thought they were assignments. So, he did what he had to do and solve the unsolved problems without knowing what he has done.
 That was enough for me as a 13 14 years old boy to find his motive and my story started... if you know me then you know the rest :)
 
+<div align="center">
 <img src="https://news.stanford.edu/__data/assets/image/0016/82501/Dantzig_vertical.jpeg" width="295" height="450">
+</div>
 
 But who was George Dantzig. **George Bernard Dantzig** (1914-2005) was an American mathematician and mostly known for devising the Simplex Algorithm, a foundational method for solving linear programming problems.
 He educated at UC Berkeley and he worked on military logistics during World War II and later held academic positions at Berkeley and Stanford. 
